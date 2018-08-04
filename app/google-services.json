@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "807073670114",
+    "firebase_url": "https://rock-sentinel-511.firebaseio.com",
+    "project_id": "rock-sentinel-511"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807073670114:android:693c00b96c712e8c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807073670114-tvaonfch7bj4cbjuimqjfe5j2kst3bga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--Q5OztNNHVIt_4yIGE8REDTSt9BKJFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807073670114:android:1745af4c9c380512",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit_custommodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807073670114-tvaonfch7bj4cbjuimqjfe5j2kst3bga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--Q5OztNNHVIt_4yIGE8REDTSt9BKJFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807073670114:android:19bf9728be79fc42",
+        "android_client_info": {
+          "package_name": "com.nbs.app.smartgreenhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807073670114-tlgtlusgsi4rsbmoifv31uoecmn91tqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nbs.app.smartgreenhouse",
+            "certificate_hash": "c17769dde63018b9f2d71bec8dfc78279d8a8faf"
+          }
+        },
+        {
+          "client_id": "807073670114-tvaonfch7bj4cbjuimqjfe5j2kst3bga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--Q5OztNNHVIt_4yIGE8REDTSt9BKJFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807073670114-p9chniodksusd4rmcd58m7hjdhm9mmkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807073670114:android:4fa82ebd127f11f4",
+        "android_client_info": {
+          "package_name": "com.nbs.nothotdog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807073670114-tvaonfch7bj4cbjuimqjfe5j2kst3bga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--Q5OztNNHVIt_4yIGE8REDTSt9BKJFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807073670114:android:62e481f0bf2ec88c",
+        "android_client_info": {
+          "package_name": "com.nbs.scannerplayground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807073670114-tvaonfch7bj4cbjuimqjfe5j2kst3bga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--Q5OztNNHVIt_4yIGE8REDTSt9BKJFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
